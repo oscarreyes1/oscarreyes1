@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, MySQL, and Web API Design with Spring Boot.
 - 🌱 I’m currently learning Back End Software Development student at Promineo Tech. I am learning to use Java, MySQL, and Web API Design with Spring Boot.
 - 💞️ I’m looking to collaborate on one of the programs I am currently learning. 
-- 📫 How to reach me: https://www.linkedin.com/in/oscar-reyes-153190233/ 
+- 📫 How to reach me: https://www.linkedin.com/in/oscar-reyes-153190233/
 
 <!---
 oscarreyes1/oscarreyes1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
